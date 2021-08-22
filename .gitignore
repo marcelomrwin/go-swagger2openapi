@@ -174,4 +174,7 @@ Temporary Items
 .history
 .ionide
 
+# Binary
+go-swagger2openapi
+
 # End of https://www.toptal.com/developers/gitignore/api/go,osx,intellij,visualstudiocode
