@@ -15,7 +15,7 @@ type AuthHandler struct {
 // SignInRequest contains sign in information
 type SignInRequest struct {
 	Username string `json:"username" example:"demo"`
-	Password string `json:"password" example:"password"`
+	Password string `json:"password" example:"123456"`
 }
 
 // SignIn with username and password
