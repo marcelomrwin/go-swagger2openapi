@@ -1,11 +1,10 @@
 package service
 
 import (
-	"log"
-	"net/http"
-
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
+	"log"
+	"net/http"
 )
 
 // AuthHandler for sign in
